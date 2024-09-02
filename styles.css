@@ -248,10 +248,14 @@ footer {
   font-weight: 700;
   font-size: 18px;
   color: white;
+  .span1{
+    color: #5c4de5;
+  }
 }
 
 .footer:hover {
-  color: rgb(255, 72, 0);
+  .span1{color: rgb(255, 0, 0);}
+  color: rgb(255, 0, 0);
 }
 
 footer h5 {
