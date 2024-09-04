@@ -11,6 +11,7 @@ header {
   font-size: 18px;
   color: #2e2f42;
   line-height: 21px;
+  .span-title{color: #000;}
 }
 
 .title:hover {
